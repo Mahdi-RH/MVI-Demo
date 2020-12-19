@@ -2,6 +2,7 @@
 
 MVI-Demo is Simple App For Request List of Users with Implementing MVI Architecture
 
+
 ## Features
 - [x] Kotlin
 - [x] Kotlin Coroutines
@@ -14,6 +15,7 @@ MVI-Demo is Simple App For Request List of Users with Implementing MVI Architect
 ## Coming Features
  * Apply Unit Tests
  * Apply DI
+
 
 ## License
 * This project is licensed under the MIT License - see the [License](https://github.com/YasserAdel564/MVI-Demo/blob/master/License)
